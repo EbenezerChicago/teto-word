@@ -26,7 +26,7 @@ Just make sure you use `crontab -e` and add `@reboot /path/where/you/put/the/scr
 
 That way, you can feel machine love without needing a Mac.
 # Credits
-This program was authored by me, Ebenezer Chicagom and is licensed under the MIT License.
+This program was authored by me, Ebenezer Chicago and is licensed under the MIT License.
 
 All rights reserved.  Batteries not included.
 ## Additional Credits
