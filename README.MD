@@ -1,5 +1,6 @@
 # Teto Word of the Day: Generator
 ![The program in "action"](./screenshot.png?raw=true)
+
 This is a simple program written in Golang for generating a random word at the bottom of popular UTAU voicebank Kasane Teto.
 # How It Works
 The program is simply, really.  It uses [Ebitengine](https://github.com/hajimehoshi/ebiten) to render a picture of a Kasane Teto plush (and the text), [etxt](https://github.com/tinne26/etxt) to render the image macro text you would see in memes, and [GopherLua](https://github.com/yuin/gopher-lua) to deliver the word "of the day" to the program.
