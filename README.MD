@@ -12,11 +12,6 @@ If you do not pass any word, then that's okay; the program will use its Lua libr
 First off, you may need to have [Golang](https://go.dev/dl/) installed (version 1.25.0 or newer), and that is that.
 
 Then you can execute the program in three different ways.
-## via Terminal
-As usual, you can always run this simple command (if you have internet access, of course):
-```bash
-go run https://github.com/EbenezerChicago/teto-word
-```
 ## via Source
 If you want to run using the source code, you can always execute these commands:
 ```bash
@@ -25,7 +20,7 @@ cd teto-word
 go run . [any word you want (optional)]
 ```
 ## via Startup
-Want Teto to greet you with a daily word?  You can always copy the script used in the "via Terminal" method, and paste it in a new `.sh` file.
+Want Teto to greet you with a daily word?  You can always copy the last two commands used in the "via Source" method, and paste it in a new `.sh` file.
 
 Just make sure you use `crontab -e` and add `@reboot /path/where/you/put/the/script.sh` at the bottom of it.
 
