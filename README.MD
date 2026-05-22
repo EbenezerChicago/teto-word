@@ -15,7 +15,7 @@ Then you can execute the program in three different ways.
 ## via Terminal
 As usual, you can always run this simple command (if you have internet access, of course):
 ```bash
-go run https://github.com/EbenezerChicago/teto-word@latest
+go run https://github.com/EbenezerChicago/teto-word
 ```
 ## via Source
 If you want to run using the source code, you can always execute these commands:
